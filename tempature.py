@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Michael Zagon
-# Created on: Oct 2021
+# Created by: Lucas LeBlanc
+# Created on: Nov 2021
 # This program converts Celsius to Fahrenheit
 
 
